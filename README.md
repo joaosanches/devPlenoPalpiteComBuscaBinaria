@@ -14,3 +14,5 @@ Publicações:
 ## Como funciona
 
 - Pense em um número e indique se ele é maior, menor ou igual ao número do chute;
+
+##### Código feito e publicado através da plataforma [codesandbox.io](https://codesandbox.io/)
